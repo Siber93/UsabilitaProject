@@ -1,0 +1,7 @@
+- Sistemare il testo gia scritto 
+- fare esagoni o diagrammi per le capacita degli utenti 
+- integrare le curve d' urgenza
+- blueprint/sitemap lato cliente/professionista
+- blueprint/sitemap nuovo cliente/professionista
+- mockup delle pagine
+- relazione finale (presentazione)
