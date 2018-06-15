@@ -1,7 +1,10 @@
-- Sistemare il testo gia scritto 
+- mockup pagina registrazione
+- mockup pagina di store online
+- nel mockup della gestione clienti aggiungere una colonna nota dove il professionista puo apputnare qualcosa
+- schermata di login va inserita in una pagina manca scritta registrati o skip questo passaggio
+- cognitive walktrought task 
 - fare esagoni o diagrammi per le capacita degli utenti 
 - integrare le curve d' urgenza
-- blueprint/sitemap lato cliente/professionista
-- blueprint/sitemap nuovo cliente/professionista
-- mockup delle pagine
+- definizione prototipo
 - relazione finale (presentazione)
+- nell area professionista fare l area rispondi alle domande
